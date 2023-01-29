@@ -12,15 +12,15 @@ There are similar lessons from health care. When things go wrong in medical sett
 
 The incentives **(激励/动机)** to learn from errors are particularly strong in aviation and health care, where safety is paramount **(首要的)** and lives are at risk. But they also exist when the stakes **(risk)** are lower. That is why software engineers and developers routinely conduct “blameless postmortems **(事后反思/复盘)**” to investigate, say, what went wrong if a website crashes or a server goes down.
 
-There is an obvious worry about embracing blamelessness. What if the wretched **(可恶的)** website keeps crashing and the same person is at fault? Sometimes, after all, blame is deserved. The idea of the “just culture”, a framework developed in the 1990s by James Reason, a psychologist, addresses **(解决/tackle/deal with)** the concern that the incompetent **(无能的)** and the malevolent **(有恶意的)** will be let off the hook **(解脱)**. The line that Britain’s aviation regulator draws between honest errors and the other sort is a good starting-point. It promises a culture in which people “are not punished for actions, omissions or decisions taken by them that are commensurate with their experience and training”. That narrows room for blame but does not remove it entirely.
+There is an obvious worry about embracing blamelessness. What if the wretched **(可恶的)** website keeps crashing and the same person is at fault? Sometimes, after all, blame is deserved. The idea of the “just culture”, a framework developed in the 1990s by James Reason, a psychologist, addresses **(解决/tackle/deal with)** the concern that the incompetent **(无能的)** and the malevolent **(有恶意的)** will be let off the hook **(解脱)**. The line that Britain’s aviation regulator **(监管机构)** draws between honest errors and the other sort (_of errors_) is a good starting-point. It promises a culture in which people “are not punished for actions, omissions or decisions taken by them that are commensurate **(相当的)** with their experience and training”. That narrows room for blame but does not remove it entirely.
 
-There are two bigger problems with trying to move away from the tendency to blame. The first is that it requires a lot of effort. Blame is cheap and fast: “It was Nigel” takes one second to say and has the ring of truth. Documenting mistakes and making sure processes change as a result require much more structure. Blameless postmortems have long been part of the culture at Google, for instance, which has templates, reviews and discussion groups for them.
+There are two bigger problems with trying to move away from the tendency to blame. The first is that it requires a lot of effort. Blame is cheap and fast: “It was Nigel” takes one second to say and ==has the ring of truth **(真实可信的)**==. Documenting mistakes and making sure processes change as a result require much more structure. Blameless postmortems have long been part of the culture at Google, for instance, which has templates, reviews and discussion groups for them.
 
-The second problem is the boss. People with power are particularly prone **(有倾向)** to point fingers. A recent paper by academics at the University of California, San Diego, and Nanyang Technological University in Singapore found that people who are in positions of authority are more likely to assume that others have choices and to blame them for failures.
+The second problem is the boss. People with power are particularly prone to **(倾向于/负面的)** point fingers. A recent paper by academics at the University of California, San Diego, and Nanyang Technological University in Singapore found that people who are in positions of authority are more likely to assume that others have choices and to blame them for failures.
 
-In one experiment, for example, people were randomly assigned the roles of supervisor and worker, and shown a transcript of an audio recording that contained errors; they were also shown an apology from the transcriber, saying that an unstable internet connection had meant they could not complete the task properly. The person in the supervisor role was much more likely to agree that the transcriber was to blame for the errors and to want to withhold payment. Power and punitiveness went together.
+In one experiment, for example, people were randomly assigned the roles of supervisor and worker, and shown a transcript **(笔录)** of an audio recording that contained errors; they were also shown an apology from the transcriber, saying that an unstable internet connection had meant they could not complete the task properly. The person in the supervisor role was much more likely to agree that the transcriber was to blame for the errors and to want to withhold payment. Power and punitiveness **(punitive 惩罚性的)** went together.
 
-Blame also seems to be contagious **(传染性的)**. In a paper from 2009, researchers asked volunteers to read news articles about a political failure and then to write about a failure of their own. Participants who read that the politician blamed special interests for the screw-up were more likely to pin their own failures on others; those who read that the politician accepted responsibility were more likely to shoulder the blame for their shortfall. Bosses are the most visible people in a firm; when they point fingers, others will, too. If your company has a blame culture, the fault lies there.
+Blame also seems to be contagious **(传染性的/infectious)**. In a paper from 2009, researchers asked volunteers to read news articles about a political failure and then to write about a failure of their own. Participants who read that the politician blamed special interests for the ==screw-up **(搞砸的事)**== were more likely to ==pin their own failures on **(pin on 归咎于)**== others; those who read that the politician accepted responsibility were more likely to shoulder **(承担)** the blame for their shortfall. Bosses are the most visible people in a firm; when they point fingers, others will, too. If your company has a blame culture, the fault lies there.
 
 ---
 
@@ -53,3 +53,26 @@ Blame also seems to be contagious **(传染性的)**. In a paper from 2009, rese
 - let off the hook 解脱
 - vary between countries/cultries
 - is deemed ...
+- regulator 监管者
+- commensurate with 与..相当的/相称的
+- has the ring of truth 真实可信的
+- prone to 倾向于做...(负面的)
+- transcript 笔录
+- punitive 惩罚性的
+- contagious 传染性的
+- screw up 搞砸事情
+- pin on 归咎于
+  - pin the blame on you
+- shoulder 承担
+
+---
+
+- 指责
+
+  - point fingure
+  - blame
+  - fault
+
+- 崩溃/瘫痪
+  - crash
+  - go down
