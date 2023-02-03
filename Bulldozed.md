@@ -1,18 +1,40 @@
-Future of Work
-Schools should teach curiosity, not careerism
+# Bulldozed
 
-Financial Times Jan 31st edition Opinion
+## America Inc is in for a rough earnings season
 
-Do you remember being five? I have dim memories, mostly of playing with friends and making mud pies. The last thing on my mind was what I would be when I grew up. But in England, a new £2.6mn initiative is being aimed at children between the ages of five and eight, encouraging them to think about their future jobs. The Department of Education has recognised that young children are aware of the world of work (largely due to their parents and television) but seems to think that delaying career guidance is a problem that needs fixing.
-Education always seems to be both the cause of all our woes — and their solution. Schools have to feed children, ensure their physical fitness, keep them safe, monitor and address mental and social health issues, all while trying to teach them how to read, write and count. Now, they have another duty on this ever-expanding list: they have to inspire their pupils to aim higher and think more ambitiously about their job prospects.
-The fact that teachers are so overburdened that 44 per cent want to quit within the next five years is bad enough. So is the government’s insistence on considering pupils not as citizens but economic units of production. But more worrying is that the concept of “a career” is still so deeply entrenched.
-We’ve watched industries rise and fall over the course of the last 100 years. We know that life expectancy is broadly rising. So, as professors Lynda Gratton and Andrew Scott have shown in their book The 100-year Life, most people can expect to have multiple careers, not just one.
-The report on which the government’s new initiative is based opens with a worrying metaphor: “Ignoring the process of career development occurring in childhood is similar to a gardener disregarding the quality of the soil in which a garden will be planted.”
-But though garden plants grow, they don’t change over their lifetimes. A rosemary bush does not become an oak tree. Yet milkmen do become painters, teachers can lead intelligence organisations, oil executives embrace religion and art historians turn into labour rights negotiators — even economists become nurses. Such adaptability is one of our greatest gifts.
-Over the course of a lifetime, individuals don’t just change physically or in their attitude and choices. They also change their values, their ideas of who they are, what they seek from work and their understanding of joy. Any rigid concept of “a career” is antithetical to the fact that humans are always developing, often quite profoundly, right up to the moment that they die.
-In my experience, the British have always been hidebound in the way that they think about work. When, after 15 successful years in broadcasting, I wanted to explore what else I might be capable of, I found no employer who could imagine me as other than what I had already been. They couldn’t see the relevance of my skills to a different context. Nor did they understand why I might be eager to learn new ones. They simply couldn’t imagine change, on my part or on their own.
-But when I moved to the US, I encountered no such difficulty. I worked in fundraising, then public affairs for a major Boston law firm before moving on to run tech start-ups for a venture capitalist. The cross-fertilisation was good for my employers and revivifying for me. Personal growth and business growth were intertwined — as they should be.
-This was nothing like the gig economy but the best kind of work: mutually beneficial, enhancing our shared capacity for change. And the employees I’m proudest of are those who went on to found their own companies — often in entirely different domains.
-Instead of “inspiring them about the world of work”, schools in England and elsewhere would do better to teach their pupils about the possibilities that life holds. We don’t know, with any precision, what kinds of skills the workforce of the future will require. Beyond the fact that academic achievement is predictive of more academic achievement, we don’t even know what subjects map on to what capabilities.
-To grow in a fast changing, unpredictable environment, we need a population that loves learning, whose curiosity about the world is stimulated not by a fear of failing tests but a life-long passion for invention and discovery.
-These days, I am routinely asked by business leaders what they can do to make their people more curious and inventive. But that’s what they were — when they were children. The least we can do is let them stay that way as long as possible.
+> The Economist Jan. 28th 2023 edition Business
+
+Chief executives of the world’s biggest firms seem in highish spirits ==of late== **(最近)**. Although they see the war in Ukraine as a humanitarian **(人道主义)** tragedy **(悲剧)**, the risks to the world economy look for now to be contained **(控制)**. Central banks have ==got serious about== **(严肃对待)** inflation **(膨胀)**. The world economy has held up better than expected a few months ago. Globalisation may not be in ==the rudest of health== **(非常健康)**, but news of its demise **终止/失败** appears, to many bosses, exaggerated **(夸大的)**.
+
+The mood in ==corner offices== **(指领导的办公室)** may be about to sour **(变坏/不愉快)**. “Earnings season is going to be the confessional **(坦白)** event,” says Jim Tierney of Bernstein, an investment firm, referring to the month or so when most companies report their quarterly results. The profits of America’s banking giants, which kicked things off earlier this month, fell by 20% year on year. Investment bankers got a particularly severe drubbing, as **(因为)** dealmaking collapsed amid economic uncertainty. Goldman Sachs is giving around 3,200 of its workers the boot.By January 25th titans of other industries, from manufacturing (3m and Boeing) to consumer goods (Kimberly-Clark) and technology (Microsoft), had reported soggy **(沉闷的)** earnings. Profit estimates for large American firms are plunging **(暴跌)**.
+
+The first thing to which firms will be confessing **(忏悔)** is the weariness **(疲倦)** of consumers. In firms’ conference calls with analysts at the end of last year, many spoke of weak demand, **as** shoppers ==reined in== **(严格控制)** spending on ==discretionary items==. Procter & Gamble, whose products range from nappies **(尿布)** and detergents **(洗衣粉)** to dental floss **(牙线)**, has reported falling sales volumes across its businesses in the fourth quarter. It managed to meet earnings expectations only because it increased prices by 10% and plans further rises in February.
+
+Yet ==the chorus of bosses== advertising such “pricing power”, last year’s favourite boast **(吹牛)**, will be quieter this earnings season. Although households are still spending excess savings built up during the pandemic, they are increasingly fishing for bargains **(便宜货)**.
+
+As demand falters, firms are owning up to excessive costs—their second confession. Technology companies, which saw demand for their products slow last year from pandemic-induced highs, are doing so with special zeal. Apple’s boss, Tim Cook, is taking a 40% pay cut this year. Less symbolically, on January 18th Microsoft announced that it would lay off 10,000 people. Two days later Alphabet, Google’s corporate parent, said it would sack 12,000. These cuts do not entirely reverse big tech’s pandemic hiring binge, but a prominent Silicon Valley venture capitalist thinks it will provide “air cover” for more tech firms to trim their payrolls and shore up their cashflows.
+
+Companies’ third confession concerns the fate of any profits that will be made. This earnings season is also a time for firms to lay out their spending plans for the year ahead. In aggregate **(总计)**, large American businesses tend to split their outgoings evenly between shareholder payouts (through dividends and share buy-backs) and investments (research and development, capital expenditure, and mergers and acquisitions).
+
+In the era of cheap money, before central banks started raising interest rates to quash inflation, the payouts were often financed with debt. Now that money is getting expensive, such borrowing is likely to subside. As for dealmaking, plenty of acquirers are still sorting out the mess created by transactions struck at peak prices during the pandemic merger boom.
+
+That leaves investments. The 21st century’s mega-trends—decarbonisation, digitisation and decoupling between China and the West—argue in favour of mammoth spending on climate-friendly technology, on robots and software, and on non-Chinese factories. One European industrial boss contends that, as a result, capital spending should withstand the impending downturn better than usual.
+
+Like all earnings seasons, this one will spring positive surprises. A few have already sprung. United Airlines increased its prices without putting off passengers. Netflix smashed expectations by adding 7.7m new subscribers in the fourth quarter, partly thanks to a new, cheaper, ad-interrupted service.On January 25th Tesla reported a record quarterly profit.
+
+Such perkiness will, however, be the exception rather than the rule this year. In aggregate, positive earnings surprises have been getting less positive in recent quarters. High debt and low taxes, which propelled corporate profitability for several decades, are no longer the tailwinds they were, as interest rates rise and the appetite for deficit-funded tax cuts diminishes. As this new reality sinks in, ceos’ half-full glasses may suddenly look half-empty.
+
+---
+
+- be in for something 将要遭遇不愉快的事情
+- Inc (Incorporated) 股份有限公司
+- Ltd (Limited) 有限责任公司
+- CEO
+- kick sth off 开始做事情
+- kick sb off 开除
+- get a drubbing 被打败，挨打
+- give the boot 开除
+- plunge/surge
+- non-discretionay 必需品
+- discretionay 非必需的
+- a chorus of thanks/disapproval/protest etc 异口同声
